@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+            padding: 0;
+            background-size: cover;
+            background-repeat: no-repeat;
+            transition: background-image 0s ease-in-out;
+            font-size: 20px;
+            color: red;
+
+}
+.input{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.label{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image{
+    height: 500px;
+}
+#textWrapper{
+    color: white;
+}
+.form{
+  text-shadow: 2px 2px green;
+}
